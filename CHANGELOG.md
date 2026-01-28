@@ -1,5 +1,13 @@
 # Changelog
 
+### v1.0.57 (2026-01-28)
+
+**Other changes:**
+
+- chore(metadata): update package metadata (● [8b84b7e](https://github.com/c0rejs/geoip-city/commit/8b84b7e); 👬 zdm)
+
+Compare with the previous release: [v1.0.56](https://github.com/c0rejs/geoip-city/compare/v1.0.56...v1.0.57)
+
 ### v1.0.56 (2026-01-27)
 
 **Other changes:**

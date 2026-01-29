@@ -1,5 +1,11 @@
 # Changelog
 
+### v1.0.58 (2026-01-29)
+
+No changes since the previous release.
+
+Compare with the previous release: [v1.0.57](https://github.com/c0rejs/geoip-city/compare/v1.0.57...v1.0.58)
+
 ### v1.0.57 (2026-01-28)
 
 **Other changes:**

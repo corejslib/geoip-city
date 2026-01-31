@@ -1,25 +1,25 @@
 {
-    "name": "@c0rejs/geoip-city",
+    "name": "@corejslib/geoip-city",
     "version": "1.0.58",
     "description": "GeoIP city",
     "keywords": [
         "softvisio",
         "geoip"
     ],
-    "homepage": "https://c0rejs.github.io/geoip-city/",
+    "homepage": "https://corejslib.github.io/geoip-city/",
     "bugs": {
-        "url": "https://github.com/c0rejs/geoip-city/issues",
+        "url": "https://github.com/corejslib/geoip-city/issues",
         "email": "root <root@softvisio.net>"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/c0rejs/geoip-city.git"
+        "url": "git+https://github.com/corejslib/geoip-city.git"
     },
     "license": "ISC",
     "author": "root <root@softvisio.net>",
     "type": "module",
     "imports": {
-        "#core/*": "@c0rejs/core/*",
+        "#core/*": "@corejslib/core/*",
         "#lib/*": "./lib/*.js"
     },
     "exports": {
@@ -36,6 +36,6 @@
         "install": "node bin/install.js"
     },
     "peerDependencies": {
-        "@c0rejs/core": "^7.36.4"
+        "@corejslib/core": "^7.36.4"
     }
 }

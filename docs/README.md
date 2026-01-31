@@ -7,13 +7,13 @@ Database is updated automatically every 4 hours during the process runtime.
 ## Install
 
 ```sh
-npm install @c0rejs/geoip-city
+npm install @corejslib/geoip-city
 ```
 
 ## Usage
 
 ```javascript
-import geiipCity from "@c0rejs/geoip-city";
+import geiipCity from "@corejslib/geoip-city";
 
 const res = geiipCity.get( ipAddress );
 ```

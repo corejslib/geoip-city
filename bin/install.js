@@ -18,7 +18,7 @@ const CLI = {
 
 await Cli.parse( CLI );
 
-externalResources.add( "c0rejs/core/resources/geolite2-city" );
+externalResources.add( "corejslib/core/resources/geolite2-city" );
 
 const res = await externalResources.install( {
     "force": process.cli.options.force,

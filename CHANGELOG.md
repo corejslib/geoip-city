@@ -1,5 +1,13 @@
 # Changelog
 
+### v1.0.59 (2026-01-31)
+
+**Other changes:**
+
+- chore: rename package (● [e64289e](https://github.com/corejslib/geoip-city/commit/e64289e); 👬 zdm)
+
+Compare with the previous release: [v1.0.58](https://github.com/corejslib/geoip-city/compare/v1.0.58...v1.0.59)
+
 ### v1.0.58 (2026-01-29)
 
 No changes since the previous release.

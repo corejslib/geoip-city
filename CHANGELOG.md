@@ -1,5 +1,13 @@
 # Changelog
 
+### v1.0.61 (2026-03-06)
+
+**Other changes:**
+
+- chore(metadata): update package metadata (● [874870c](https://github.com/corejslib/geoip-city/commit/874870c); 👬 zdm)
+
+Compare with the previous release: [v1.0.60](https://github.com/corejslib/geoip-city/compare/v1.0.60...v1.0.61)
+
 ### v1.0.60 (2026-02-05)
 
 **Other changes:**

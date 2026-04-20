@@ -1,5 +1,13 @@
 # Changelog
 
+### v1.0.63 (2026-04-20)
+
+**Code refactoring:**
+
+- \[PATCH] refactor: update .editorconfig (● [7aea764](https://github.com/corejslib/geoip-city/commit/7aea764); 👬 zdm)
+
+Compare with the previous release: [v1.0.62...v1.0.63](https://github.com/corejslib/geoip-city/compare/v1.0.62...v1.0.63)
+
 ### v1.0.62 (2026-03-18)
 
 **Other changes:**

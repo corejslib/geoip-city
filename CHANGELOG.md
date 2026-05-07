@@ -1,5 +1,13 @@
 # Changelog
 
+### v1.0.64 (2026-05-07)
+
+**Code refactoring:**
+
+- \[PATCH] refactor: rename cli.config.yaml to scli.config.yaml (● [73c752f](https://github.com/corejslib/geoip-city/commit/73c752f); 👬 zdm)
+
+Compare with the previous release: [v1.0.63...v1.0.64](https://github.com/corejslib/geoip-city/compare/v1.0.63...v1.0.64)
+
 ### v1.0.63 (2026-04-20)
 
 **Code refactoring:**

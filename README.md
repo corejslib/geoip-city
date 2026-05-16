@@ -1,6 +1,7 @@
 <!-- !!! DO NOT EDIT, THIS FILE IS GENERATED AUTOMATICALLY !!!  -->
 
-> ℹ️ Please, see the full project documentation here:<br><https://corejslib.github.io/geoip-city/>
+> \[!NOTE]
+> Please, see the full project documentation here:<br><https://corejslib.github.io/geoip-city/>
 
 # Introduction
 

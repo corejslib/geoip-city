@@ -1,5 +1,13 @@
 # Changelog
 
+### v1.0.65 (2026-05-16)
+
+**Other changes:**
+
+- docs: update readme (● [80b0069](https://github.com/corejslib/geoip-city/commit/80b0069); 👬 zdm)
+
+Compare with the previous release: [v1.0.64...v1.0.65](https://github.com/corejslib/geoip-city/compare/v1.0.64...v1.0.65)
+
 ### v1.0.64 (2026-05-07)
 
 **Code refactoring:**

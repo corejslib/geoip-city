@@ -36,6 +36,6 @@
         "install": "node bin/install.js"
     },
     "peerDependencies": {
-        "@corejslib/core": "^7.36.4"
+        "@corejslib/core": "^8.0.0"
     }
 }

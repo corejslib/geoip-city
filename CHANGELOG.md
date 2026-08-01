@@ -1,5 +1,13 @@
 # Changelog
 
+### v1.0.70 (2026-08-01)
+
+**Other changes:**
+
+- chore: rename softvisio to corejslib (● [664b6d9](https://github.com/corejslib/geoip-city/commit/664b6d9); 👬 zdm)
+
+Compare with the previous release: [v1.0.69...v1.0.70](https://github.com/corejslib/geoip-city/compare/v1.0.69...v1.0.70)
+
 ### v1.0.69 (2026-08-01)
 
 **Bug fixes:**

@@ -3,7 +3,6 @@
     "version": "1.0.68",
     "description": "GeoIP city",
     "keywords": [
-        "softvisio",
         "geoip"
     ],
     "homepage": "https://corejslib.github.io/geoip-city/",

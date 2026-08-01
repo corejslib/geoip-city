@@ -1,6 +1,6 @@
 {
     "name": "@corejslib/geoip-city",
-    "version": "1.0.68",
+    "version": "1.0.69",
     "description": "GeoIP city",
     "keywords": [
         "geoip"

@@ -1,5 +1,13 @@
 # Changelog
 
+### v1.0.69 (2026-08-01)
+
+**Bug fixes:**
+
+- \[PATCH] fix: update package keywords (● [7484557](https://github.com/corejslib/geoip-city/commit/7484557); 👬 zdm)
+
+Compare with the previous release: [v1.0.68...v1.0.69](https://github.com/corejslib/geoip-city/compare/v1.0.68...v1.0.69)
+
 ### v1.0.68 (2026-07-06)
 
 **Other changes:**

@@ -1,5 +1,13 @@
 # Changelog
 
+### v1.0.71 (2026-08-04)
+
+**Other changes:**
+
+- chore: rename ccli to zcli (● [91a32bd](https://github.com/corejslib/geoip-city/commit/91a32bd), [42770ef](https://github.com/corejslib/geoip-city/commit/42770ef), [79e1044](https://github.com/corejslib/geoip-city/commit/79e1044); 👬 zdm)
+
+Compare with the previous release: [v1.0.70...v1.0.71](https://github.com/corejslib/geoip-city/compare/v1.0.70...v1.0.71)
+
 ### v1.0.70 (2026-08-01)
 
 **Other changes:**

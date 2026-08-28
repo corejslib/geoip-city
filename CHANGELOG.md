@@ -1,5 +1,13 @@
 # Changelog
 
+### v1.0.72 (2026-08-28)
+
+**Bug fixes:**
+
+- \[PATCH] fix: fix shebang (● [60e1b67](https://github.com/corejslib/geoip-city/commit/60e1b67); 👬 zdm)
+
+Compare with the previous release: [v1.0.71...v1.0.72](https://github.com/corejslib/geoip-city/compare/v1.0.71...v1.0.72)
+
 ### v1.0.71 (2026-08-04)
 
 **Other changes:**

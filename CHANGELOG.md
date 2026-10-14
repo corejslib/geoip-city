@@ -1,5 +1,13 @@
 # Changelog
 
+### v1.1.1 (2026-10-14)
+
+**Code refactoring:**
+
+- \[PATCH] refactor: use explicit MMDB lazy initialization (● [763030b](https://github.com/corejslib/geoip-city/commit/763030b); 👬 zdm)
+
+Compare with the previous release: [v1.1.0...v1.1.1](https://github.com/corejslib/geoip-city/compare/v1.1.0...v1.1.1)
+
 ### v1.1.0 (2026-10-14)
 
 **New features:**

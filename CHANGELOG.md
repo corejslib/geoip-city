@@ -1,5 +1,13 @@
 # Changelog
 
+### v1.1.0 (2026-10-14)
+
+**New features:**
+
+- \[MINOR] feat: expose GeoIP resource update events (● [7118f51](https://github.com/corejslib/geoip-city/commit/7118f51); 👬 zdm)
+
+Compare with the previous release: [v1.0.74...v1.1.0](https://github.com/corejslib/geoip-city/compare/v1.0.74...v1.1.0)
+
 ### v1.0.74 (2026-10-14)
 
 **Code refactoring:**

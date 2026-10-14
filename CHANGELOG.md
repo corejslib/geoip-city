@@ -1,5 +1,13 @@
 # Changelog
 
+### v1.0.74 (2026-10-14)
+
+**Code refactoring:**
+
+- \[PATCH] refactor: expose GeoLite2 database path for lookup (● [0fd8400](https://github.com/corejslib/geoip-city/commit/0fd8400); 👬 zdm)
+
+Compare with the previous release: [v1.0.73...v1.0.74](https://github.com/corejslib/geoip-city/compare/v1.0.73...v1.0.74)
+
 ### v1.0.73 (2026-09-07)
 
 **Code refactoring:**
